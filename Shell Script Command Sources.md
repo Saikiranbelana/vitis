@@ -8,8 +8,6 @@
 
 2. Bash Shell Variables and Aliases (and how to setup your $PATH variable):
 
-   ​	
-
    []: https://dev.to/zachgoll/bash-shell-variables-and-aliases-and-how-to-setup-your-path-variable-1g3o
 
    
