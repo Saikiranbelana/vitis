@@ -21,10 +21,33 @@
 
    
 
+4. How To Assign Output of a Linux Command to a Variable:
+
+   ​	
+
+   []: https://www.tecmint.com/assign-linux-command-output-to-variable/#:~:text=shell%20scripting%20purpose.-,To%20store%20the%20output%20of%20a%20command%20in%20a%20
+
    
 
-   4. How To Assign Output of a Linux Command to a Variable:
+5. Extra Info for Shell Scripting(UNIX commands)
 
    
 
+   []: https://afni.nimh.nih.gov/pub/dist/edu/data/CD.expanded/AFNI_data6/unix_tutorial/misc/unix_commands.html#cat
+
    
+
+6. How to Add a GUI to Linux Shell Scripts
+
+   
+
+   []: https://www.howtogeek.com/435020/how-to-add-a-gui-to-linux-shell-scripts/
+
+   
+
+
+
+
+
+
+
