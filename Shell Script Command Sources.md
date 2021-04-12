@@ -23,8 +23,6 @@
 
 4. How To Assign Output of a Linux Command to a Variable:
 
-   ​	
-
    []: https://www.tecmint.com/assign-linux-command-output-to-variable/#:~:text=shell%20scripting%20purpose.-,To%20store%20the%20output%20of%20a%20command%20in%20a%20
 
    
